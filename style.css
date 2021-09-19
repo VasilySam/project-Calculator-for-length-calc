@@ -38,10 +38,4 @@ input[type=text] {
     width: 100px;
 }
 
-.cloth_length1{
-    border:0px ;
-    color:rgb(221, 160, 110) ;
-}
-.cloth_length1[type=number]{
-    color: rgb(221, 160, 110);
-}
+
